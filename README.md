@@ -1,7 +1,8 @@
 # Dokumentasi Rinjang Server Api
 
 Pertama kita membuat database nama database
-![Image of Yaktocat](https://ApiAndroid.github.com/images/database.png)
+
+![Image of Yaktocat](C:\xampp\htdocs\Api\images\database.png)
 Lalu membaut Api.php
 
 Membuat Constant.Php untuk menyambungkan ke database
