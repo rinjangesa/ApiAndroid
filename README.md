@@ -2,7 +2,7 @@
 
 Pertama kita membuat database nama database
 
-![Image of Yaktocat](C:\xampp\htdocs\Api\images\database.png)
+![Image Database](C:\xampp\htdocs\Api\images\database.png)
 Lalu membaut Api.php
 
 Membuat Constant.Php untuk menyambungkan ke database
