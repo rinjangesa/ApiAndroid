@@ -1,7 +1,7 @@
 # Dokumentasi Api Server Android Rinjang Esa
 
 # Membuat Api seperti dibawah ini:
-![Image of Yaktocat](/images/server.png)
+![Image of Yaktocat](../images/server.png)
 <?php
 header('Content-Type: application/json');
 $text = $_POST['text'];
