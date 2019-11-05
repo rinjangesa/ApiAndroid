@@ -1,7 +1,7 @@
 # Dokumentasi Api Server Android Rinjang Esa
 
 # Membuat Api seperti dibawah ini:
-![Image of Yaktocat](https://octodex.github.com/images/server.png)
+![Image of Yaktocat](https://octodex.github.com/ApiAndroid/images/server.png)
 <?php
 header('Content-Type: application/json');
 $text = $_POST['text'];
